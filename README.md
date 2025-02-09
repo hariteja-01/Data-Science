@@ -1,2 +1,2 @@
 # Data-Science
-This holds the data.
+This holds data.
